@@ -11,8 +11,5 @@ Redis: Armazenamento em cache para melhorar a performance da aplicação.
 JWT (JSON Web Tokens): Para autenticação e autorização de usuários.
 
 Front-end:
-Criar uma interface simples em HTML/CSS que interaja com a API via AJAX (JavaScript).
+Uma interface simples em HTML/CSS que interaja com a API via AJAX (JavaScript).
 A interface permite adicionar, atualizar e remover tarefas.
-Adicionar novas tarefas.
-Atualizar o status de uma tarefa.
-Remover uma tarefa.
